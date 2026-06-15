@@ -64,5 +64,4 @@ HTML, CSS, JavaScript, database integration, dashboard interface.
 ### Why This is Suitable
 The system is practical, addresses a common business problem, and can be developed as a functional prototype during the semester.
 
-The system is practical, addresses a common business problem, and can be developed as a functional prototype during the semester.
 
