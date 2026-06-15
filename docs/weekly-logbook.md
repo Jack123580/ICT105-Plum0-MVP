@@ -22,8 +22,6 @@
 - GitHub repository link:https://github.com/thihakyawlin762-alt/ICT105-Plum0-MVP.git
 - Screenshot:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/99ada439-375f-4198-94d8-f90a133b3602" />
 
-- File created:
-- Commit link:
 
 ### Decision Made This Week
 The team agreed on roles and prepared three candidate IT venture ideas for future evaluation.
